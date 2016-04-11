@@ -1,0 +1,9 @@
+C:\Users\Micha\Documents\visual_laptop_share\IPCalculator\IPCalculator\bin\Debug\IPCalculator.exe.config
+C:\Users\Micha\Documents\visual_laptop_share\IPCalculator\IPCalculator\obj\Debug\IPCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Micha\Documents\visual_laptop_share\IPCalculator\IPCalculator\obj\Debug\IPCalculator.Form1.resources
+C:\Users\Micha\Documents\visual_laptop_share\IPCalculator\IPCalculator\obj\Debug\IPCalculator.Properties.Resources.resources
+C:\Users\Micha\Documents\visual_laptop_share\IPCalculator\IPCalculator\obj\Debug\IPCalculator.csproj.GenerateResource.Cache
+C:\Users\Micha\Documents\visual_laptop_share\IPCalculator\IPCalculator\bin\Debug\IPCalculator.exe
+C:\Users\Micha\Documents\visual_laptop_share\IPCalculator\IPCalculator\bin\Debug\IPCalculator.pdb
+C:\Users\Micha\Documents\visual_laptop_share\IPCalculator\IPCalculator\obj\Debug\IPCalculator.exe
+C:\Users\Micha\Documents\visual_laptop_share\IPCalculator\IPCalculator\obj\Debug\IPCalculator.pdb
